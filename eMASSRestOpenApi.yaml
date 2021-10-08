@@ -25,8 +25,8 @@ info:
       <strong>Available Request Headers:</strong>
       | Key      | Example Value                      | Description
       |----------|------------------------------------|------------------------------------
-      |`api-key` |c1997ce5-57f3-479e-b21e-593657c60552|This API key must be provided in the request header for all endpoint calls
-      |`user-uid`|USER.TEST121.EMASS                  |This User unique identifier key must be provided in the request header for all PUT, POST, and DELETE endpoint calls. 
+      |`api-key` |avalidkeyisneeded                   |This API key must be provided in the request header for all endpoint calls
+      |`user-uid`|avaliduseruid                       |This User unique identifier key must be provided in the request header for all PUT, POST, and DELETE endpoint calls. 
       |          |                                    |Note: For DoD users this is the DoD ID Number (EIDIPI) on their DoD CAC.
 
       Users are required to log-in to eMASS and grant permissions for a client to update data
